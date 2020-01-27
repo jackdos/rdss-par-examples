@@ -6,7 +6,7 @@
     },
     {
       "familyType": "TIFF",
-      "formats": [
+      "fileFormats": [
         {
           "guid": "985814d4-147e-590e-b1cb-faff53bef136",
           "name": "fmt/353",
