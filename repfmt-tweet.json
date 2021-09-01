@@ -1,0 +1,51 @@
+{
+  "id": {
+    "guid": "b7ad4e34-304e-5b41-959f-9afb9fe5cd70",
+    "name": "repfmt/2",
+    "namespace": "http://par.preservica.com"
+  },
+  "name": "Tweet",
+  "description": "A Tweet is described by a primary Tweet JSON file. This file may reference up to 4 jpg or png images and up to 1 MP4 video.",
+  "representationFormatSignature": {
+    "primaryFileCriteria": [
+      {
+        "formats": [
+          {
+            "guid": "61370fce-f770-5018-9d6d-39bd639c59cb",
+            "name": "fmt/1311",
+            "namespace": "http://www.nationalarchives.gov.uk"
+          }
+        ]
+      }
+    ],
+    "fileCriteria": [
+      {
+        "formatFamilies": [
+          {
+            "guid": "7bcc3e4c-4e97-556e-9592-8d7ea62187fa",
+            "name": "jpeg",
+            "namespace": "http://par.preservica.com"
+          },
+          {
+            "guid": "b7d2f299-ec03-591e-be30-16b74b599b3d",
+            "name": "png",
+            "namespace": "http://par.preservica.com"
+          }
+        ],
+        "minimum": "0",
+        "maximum": "4"
+      },
+      {
+        "formats": [
+          {
+            "guid": "1d6dc249-b131-5492-bab2-60d98fa73e02",
+            "name": "fmt/199",
+            "namespace": "http://www.nationalarchives.gov.uk"
+          }
+        ],
+        "minimum": "0",
+        "maximum": "1"
+      }
+    ]
+  }
+}
