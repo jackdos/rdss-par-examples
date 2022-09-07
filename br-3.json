@@ -2,62 +2,14 @@
   "description": "Use resizing parameters on ImageMagick to perform generation of consistent size access copy JPEGs from TIFFs",
   "formatFamilies": [
     {
-      "familyType": "Images"
+      "guid": "82c95c58-27dd-5ca3-bd3b-9a502ca7c6fd",
+      "name": "Q27996264",
+      "namespace": "http://www.wikidata.org/wiki/"
     },
     {
-      "familyType": "TIFF",
-      "fileFormats": [
-        {
-          "guid": "985814d4-147e-590e-b1cb-faff53bef136",
-          "name": "fmt/353",
-          "namespace": "http://www.nationalarchives.gov.uk/"
-        },
-        {
-          "guid": "a5aecb52-670b-5b5e-a0f1-ddfade041165",
-          "name": "fmt/155",
-          "namespace": "http://www.nationalarchives.gov.uk/"
-        },
-        {
-          "guid": "3e53b074-2226-5ced-ace2-bde2bd3016d0",
-          "name": "fmt/154",
-          "namespace": "http://www.nationalarchives.gov.uk/"
-        },
-        {
-          "guid": "21adead9-4e25-5113-9482-5f748f671964",
-          "name": "fmt/153",
-          "namespace": "http://www.nationalarchives.gov.uk/"
-        },
-        {
-          "guid": "f06c2f2a-3cc5-592b-8307-a9d81ca3bf07",
-          "name": "fmt/156",
-          "namespace": "http://www.nationalarchives.gov.uk/"
-        },
-        {
-          "guid": "560fa6ed-b81e-5c3d-9cba-dfd60bdabae8",
-          "name": "fmt/152",
-          "namespace": "http://www.nationalarchives.gov.uk/"
-        },
-        {
-          "guid": "e288e300-5436-5600-bc8e-6e4e46a20bf9",
-          "name": "x-fmt/387",
-          "namespace": "http://www.nationalarchives.gov.uk/"
-        },
-        {
-          "guid": "f4762c99-f4cc-550d-9827-a27a770e90c3",
-          "name": "x-fmt/388",
-          "namespace": "http://www.nationalarchives.gov.uk/"
-        },
-        {
-          "guid": "824d5e9a-9a08-5acd-b928-b236877b6817",
-          "name": "x-fmt/399",
-          "namespace": "http://www.nationalarchives.gov.uk/"
-        }
-      ],
-      "identifier": {
-        "guid": "9ff92bc5-30a1-59d1-a906-0c88ce9d0a49",
-        "name": "fam/TIFF",
-        "namespace": "http://preservica.com"
-      }
+      "guid": "06f81e3f-e7ae-5b77-b915-833204a7ddd6",
+      "name": "Q215106",
+      "namespace": "http://www.wikidata.org/wiki/"
     }
   ],
   "formats": [

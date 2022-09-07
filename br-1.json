@@ -2,8 +2,10 @@
   "description": "For File Format Identification of any type of file, use DROID (PAR-tool/1) as the first preference, and FIDO (PAR-tool/2) as the second",
   "formatFamilies": [
     {
-      "familyType": "ALL"
-    }
+      "guid": "265e5ad2-e76b-5b56-bb71-a52a8e8441ac",
+      "name": "Q109996624",
+      "namespace": "http://www.wikidata.org/wiki/"
+  }
   ],
   "id": {
     "guid": "a593036d-7427-54aa-b8c0-50a5fb7bd50b",
