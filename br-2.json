@@ -1,10 +1,5 @@
 {
   "description": "FFMPEG is preferable to HandBrake for migrating AVI files to WebM",
-  "formatFamilies": [
-    {
-      "familyType": "AVI"
-    }
-  ],
   "formats": [
     {
       "guid": "f21bab26-c3ab-57d0-b1d6-fcdf1d451842",
