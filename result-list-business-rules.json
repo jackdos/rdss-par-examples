@@ -2,27 +2,19 @@
   "apiVersion": "1.3",
   "query": {
     "url": "https://example.com/par/business-rules?offset=0&limit=2",
-    "parameters": [
-      {
-        "file-format-name": "fmt/5"
-      },
-      {
-        "preservation-action-type-name": "migration"
-      }
-    ]
+    "parameters": {
+      "file-format-name": "fmt/5",
+      "preservation-action-type-name": "migration"
+    }
   },
   "paging": {
     "totalResults": 1,
     "returnedResults": 1,
     "nextPage": "https://example.com/par/business-rules?offset=2&limit=2",
-    "parameters": [
-      {
-        "file-format-name": "fmt/5"
-      },
-      {
-        "preservation-action-type-name": "migration"
-      }
-    ]
+    "parameters": {
+      "file-format-name": "fmt/5",
+      "preservation-action-type-name": "migration"
+    }
   },
   "businessRules": [
     {
